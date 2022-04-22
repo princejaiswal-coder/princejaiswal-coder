@@ -15,7 +15,7 @@ I've been coding from december 2020 .
 
 <a href="https://www.github.com/princejaiswal-coder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/princejaiswal-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-![](https://komarev.com/ghpvc/?username=princejaiswal-coder&style=flat-square)</a>
+![](https://komarev.com/ghpvc/?username=princejaiswal-coder&style=for-the-badge)</a>
 ### Skills
 
 <p align="left">
