@@ -14,7 +14,8 @@ I've been coding from december 2020 .
 * 🤝  I'm open to collaborating on Interesting Project
 
 <a href="https://www.github.com/princejaiswal-coder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/princejaiswal-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/princejaiswal-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+![](https://komarev.com/ghpvc/?username=princejaiswal-coder&style=flat-square)</a>
 ### Skills
 
 <p align="left">
