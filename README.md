@@ -64,4 +64,4 @@ src="https://img.shields.io/github/followers/princejaiswal-coder?logo=github&sty
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/jugnucode"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/princejaiswal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
